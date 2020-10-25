@@ -1,0 +1,10 @@
+C:\Users\Pichau\Documents\_Estudos\C#\AssistenteEmprestimo\bin\Debug\AssistenteEmprestimo.exe.config
+C:\Users\Pichau\Documents\_Estudos\C#\AssistenteEmprestimo\bin\Debug\AssistenteEmprestimo.exe
+C:\Users\Pichau\Documents\_Estudos\C#\AssistenteEmprestimo\bin\Debug\AssistenteEmprestimo.pdb
+C:\Users\Pichau\Documents\_Estudos\C#\AssistenteEmprestimo\obj\Debug\AssistenteEmprestimo.csprojAssemblyReference.cache
+C:\Users\Pichau\Documents\_Estudos\C#\AssistenteEmprestimo\obj\Debug\AssistenteEmprestimo.Properties.Resources.resources
+C:\Users\Pichau\Documents\_Estudos\C#\AssistenteEmprestimo\obj\Debug\AssistenteEmprestimo.frmPrincipal.resources
+C:\Users\Pichau\Documents\_Estudos\C#\AssistenteEmprestimo\obj\Debug\AssistenteEmprestimo.csproj.GenerateResource.cache
+C:\Users\Pichau\Documents\_Estudos\C#\AssistenteEmprestimo\obj\Debug\AssistenteEmprestimo.exe
+C:\Users\Pichau\Documents\_Estudos\C#\AssistenteEmprestimo\obj\Debug\AssistenteEmprestimo.pdb
+C:\Users\Pichau\Documents\_Estudos\C#\AssistenteEmprestimo\obj\Debug\AssistenteEmprestimo.csproj.CoreCompileInputs.cache
